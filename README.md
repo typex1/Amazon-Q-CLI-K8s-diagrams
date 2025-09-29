@@ -1,4 +1,4 @@
-## Amazon Q CLI generated Prometheus components mermaid diagram (EKS class, Lab 4):
+## Amazon Q CLI generated Prometheus components mermaid diagram:
 
 Prompt was similar to this: "Create a mermaid diagram based on the running Prometheus compontens, including all relevant K8s resources"
 
@@ -170,7 +170,7 @@ graph TB
     class PROM datasource
 ```
 
-## Lab 4 Fluentbit components:
+## Fluentbit components:
 
 ```mermaid
 graph TB
@@ -265,7 +265,7 @@ graph TB
 4. Sends processed logs to Kinesis Firehose stream `eks-stream` in `eu-west-2`
 5. 
 
-## Lab 5 K8s resource components:
+## Another project's K8s resource components:
 
 ```mermaid
 graph TB
