@@ -1,8 +1,8 @@
-## Amazon Q CLI generated Prometheus components mermaid diagram:
+## Amazon Q CLI generated Prometheus components Mermaid diagram:
 
 Prompt was similar to this:
 ```
-Create a mermaid diagram based on the running Prometheus compontens, including all relevant Kubernetes resources.
+Create a Mermaid diagram based on the running Prometheus compontens, including all relevant Kubernetes resources.
 Save the diagram to a markdown file."
 ```
 
